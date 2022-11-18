@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0GHxRMgBovh8kVb7PbnGbiLc8XKQsQig8indbOaz+HE0FW6GB9aUD51HmY9YEkK8KctEqmnkH158NdZq8cLysg==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\MyRepos\\Projeto_CartelasParaBingo\\Projeto_CartelasParaBingo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
